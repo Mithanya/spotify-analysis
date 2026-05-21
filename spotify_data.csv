@@ -1,0 +1,31 @@
+song_id,song_name,artist_name,album_name,release_year,popularity,energy,danceability,duration_ms,genre
+1,Blinding Lights,The Weeknd,After Hours,2020,97,0.73,0.51,200040,Pop
+2,Shape of You,Ed Sheeran,Divide,2017,95,0.65,0.83,233713,Pop
+3,Dance Monkey,Tones and I,The Kids Are Coming,2019,94,0.63,0.82,209438,Pop
+4,Rockstar,Post Malone,Beerbongs & Bentleys,2018,93,0.53,0.56,218147,Hip-Hop
+5,One Dance,Drake,Views,2016,92,0.65,0.79,173987,Hip-Hop
+6,Sunflower,Post Malone,Spider-Man Into the Spider-Verse,2018,91,0.48,0.76,158040,Hip-Hop
+7,Stay,The Kid LAROI,F*CK LOVE 3,2021,90,0.68,0.59,141806,Pop
+8,Levitating,Dua Lipa,Future Nostalgia,2020,89,0.82,0.70,203064,Pop
+9,Watermelon Sugar,Harry Styles,Fine Line,2020,88,0.82,0.55,174000,Pop
+10,Bad Guy,Billie Eilish,When We All Fall Asleep,2019,87,0.43,0.70,194088,Pop
+11,Mood,24kGoldn,El Dorado,2021,86,0.71,0.72,140526,Hip-Hop
+12,Dynamite,BTS,BE,2020,85,0.76,0.74,199054,K-Pop
+13,Peaches,Justin Bieber,Justice,2021,84,0.52,0.68,198082,Pop
+14,Save Your Tears,The Weeknd,After Hours,2020,83,0.69,0.80,215627,Pop
+15,Good 4 U,Olivia Rodrigo,SOUR,2021,82,0.90,0.56,178147,Pop
+16,Butter,BTS,Butter,2021,81,0.75,0.88,164442,K-Pop
+17,Montero,Lil Nas X,Montero,2021,80,0.59,0.57,137876,Hip-Hop
+18,Industry Baby,Lil Nas X,Montero,2021,79,0.76,0.73,212000,Hip-Hop
+19,Happier,Olivia Rodrigo,SOUR,2021,78,0.44,0.48,148522,Pop
+20,Drivers License,Olivia Rodrigo,SOUR,2021,77,0.43,0.33,242014,Pop
+21,Heat Waves,Glass Animals,Dreamland,2020,76,0.63,0.55,238805,Indie
+22,Circles,Post Malone,Hollywood's Bleeding,2019,75,0.53,0.69,215280,Pop
+23,Highest in the Room,Travis Scott,Highest in the Room,2019,74,0.60,0.55,173711,Hip-Hop
+24,Adore You,Harry Styles,Fine Line,2020,73,0.56,0.63,207160,Pop
+25,Therefore I Am,Billie Eilish,Therefore I Am,2020,72,0.46,0.59,174155,Pop
+26,Positions,Ariana Grande,Positions,2020,71,0.52,0.74,172720,Pop
+27,34+35,Ariana Grande,Positions,2020,70,0.61,0.77,173506,Pop
+28,Rain on Me,Lady Gaga,Chromatica,2020,69,0.93,0.81,211600,Pop
+29,Physical,Dua Lipa,Future Nostalgia,2020,68,0.83,0.77,193716,Pop
+30,Don't Start Now,Dua Lipa,Future Nostalgia,2020,67,0.77,0.82,183290,Pop
